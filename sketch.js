@@ -212,7 +212,7 @@ gameState = PLAY
 }
 
 
-console.log(car.velocityY);
+//console.log(car.velocityY);
 
 
 
