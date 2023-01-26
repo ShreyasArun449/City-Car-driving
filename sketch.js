@@ -100,7 +100,7 @@ function draw() {
     
     }
     }
-  //  bgSound.play();
+    bgSound.play();
     track.velocityY = +(4+6 * score/100)
       if (keyDown("left")){
       car5.x = car5.x-8
